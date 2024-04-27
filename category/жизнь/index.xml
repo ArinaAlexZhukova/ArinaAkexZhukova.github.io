@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Жизнь | Academic</title>
+    <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <atom:link href="https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Жизнь</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Жизнь</title>
+      <link>https://example.com/category/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+    </image>
+    
+    <item>
+      <title>Как прошла последняя неделя апреля</title>
+      <link>https://example.com/post/week-22-28.04/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week-22-28.04/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Моя прошедшая неделя состояла из учебы, тренировок и просмотра подготовки к параду, посвященному Дню Победы.&lt;/p&gt;
+&lt;h2 id=&#34;учеба&#34;&gt;Учеба&lt;/h2&gt;
+&lt;p&gt;На прошедшей неделе я изучала новые темы по математическому анализу и математической логике, разбиралась с алгоритмами и решала интересные задачи. Было много практических работ, которые помогли углубить знания и навыки в области информационных технологий.&lt;/p&gt;
+&lt;h2 id=&#34;тренировки-по-фитнес-аэробике-в-составе-сборной&#34;&gt;Тренировки по фитнес-аэробике в составе сборной&lt;/h2&gt;
+&lt;p&gt;Помимо учебы, уделял время тренировкам. Это отличный способ поддерживать физическую форму и зарядиться энергией на целый день. На тренировках происходило много смешных моментов, которые обязательно в будущем будут не раз напоминаться.&lt;/p&gt;
+&lt;h2 id=&#34;поход-на-репетицию-парада&#34;&gt;Поход на репетицию парада&lt;/h2&gt;
+&lt;p&gt;Завершающем, но от этого не менее важным событием недели был мой поход на репетицию парада ко Дню Победы. Это было поистине впечатляющее событие. Парад Победы - это один из самых значимых и почетных мероприятий в России, посвященных памяти героев Великой Отечественной войны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_62d98fbfb10ef327f85055b0dcc50ea9.webp 400w,
+               /post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_2f0d58478823430011de8f9a413521fb.webp 760w,
+               /post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_62d98fbfb10ef327f85055b0dcc50ea9.webp&#34;
+               width=&#34;656&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Наблюдая за репетицией парада, я не могла не восхищаться тщательной подготовкой военных частей, мастерством и слаженностью действий участников. Военная техника, солдаты в форме, музыканты - все создавало неповторимую атмосферу праздника и памяти.&lt;/p&gt;
+&lt;p&gt;Я был поражен величием и героизмом тех, кто участвовал в параде. Видеть все это вживую было невероятно волнующим и трогательным. Каждый шаг, каждая мелодия призывали к сохранению памяти о великой победе и уважению к тем, кто отдал свои жизни за наше будущее.&lt;/p&gt;
+&lt;p&gt;Я горжусь возможностью быть зрителем на таком знаковом событии и вновь почувствовал, как важно помнить и чтить подвиги наших предков. Надеюсь, что каждый из нас сможет передать эту историю будущим поколениям и сохранить память о великой Победе в сердцах каждого человека.&lt;/p&gt;
+&lt;h2 id=&#34;подведём-итоги&#34;&gt;Подведём итоги&lt;/h2&gt;
+&lt;p&gt;Таким образом, прошедшая неделя была насыщенной и интересной. Полезное время проведено как в учебе, так и в тренировках, а также с приятными эмоциями.
+Время было проведено с пользой, я зарядилась энергией на следующую неделю!!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
