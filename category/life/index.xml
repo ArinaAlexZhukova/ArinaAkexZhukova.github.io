@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life | Academic</title>
+    <link>http://localhost:1313/category/life/</link>
+      <atom:link href="http://localhost:1313/category/life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Life</title>
+      <link>http://localhost:1313/category/life/</link>
+    </image>
+    
+    <item>
+      <title>How was my week</title>
+      <link>http://localhost:1313/post/week-4/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/week-4/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;🌟 The past week at the university was full of bright events and important moments!&lt;/p&gt;
+&lt;h2 id=&#34;fitness-aerobics-competitions&#34;&gt;Fitness aerobics competitions&lt;/h2&gt;
+&lt;p&gt;The beginning of the week was marked by student competitions in fitness aerobics within the framework of the ICSI. The participants showed not only a high level of physical fitness, but also enthusiasm, energy and team spirit. Each team presented unique compositions combining elements of aerobics with modern dance moves. 💃🕺
+🏆 We were able to successfully complete our program and took 2nd place. It is worth noting that this was our debut performance!!!
+📚&lt;/p&gt;
+&lt;h2 id=&#34;test-work&#34;&gt;Test work&lt;/h2&gt;
+&lt;p&gt;In the middle of the week, I came across another side of university life — a test paper on mathematical analysis. It was a serious test of the strength of knowledge and the ability to apply theoretical knowledge in practice. 📝&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Overall, the past week has been filled with both sports enthusiasm and academic tension. She showed that university life is not only about studying, but also active recreation, the development of sports skills and communication in a team. 🎓
+👏🎓
+👏&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
