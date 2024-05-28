@@ -2,21 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical | Academic</title>
-    <link>http://localhost:1313/category/technical/</link>
-      <atom:link href="http://localhost:1313/category/technical/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/category/technical/</link>
+      <atom:link href="https://example.com/category/technical/index.xml" rel="self" type="application/rss+xml" />
     <description>Technical</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Technical</title>
-      <link>http://localhost:1313/category/technical/</link>
+      <link>https://example.com/category/technical/</link>
     </image>
     
     <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h2&gt;
+&lt;p&gt;🚀 Scientific programming languages: tools for solving complex problems 🚀
+In the world of scientific research and development, programming languages play a key role, which make it possible to efficiently process data, model complex systems and analyze results. Let&amp;rsquo;s look at some of the most popular languages that are used in science for programming.&lt;/p&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexibility and simplicity: Python is known for its ease of learning and use. Its syntax is simple and straightforward, which makes it ideal for beginners and experienced developers.&lt;/li&gt;
+&lt;li&gt;A large community: Python has an extensive community of users and developers, which provides support and constant updating of libraries and tools.&lt;/li&gt;
+&lt;li&gt;Libraries for scientific calculations: NumPy, SciPy, Pandas and Matplotlib are just some of the libraries that make Python a powerful tool for scientific computing and data visualization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;r-&#34;&gt;R 📊&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistical Analysis: R specializes in statistical analysis and graphics. This language is ideal for data processing and analysis, as well as for creating visual graphs and diagrams.   - Open source code: Like Python, R is open source, which makes it easy to modify and extend its functionality.&lt;/li&gt;
+&lt;li&gt;Community of Statisticians: R is widely used in academic circles and among professional statisticians, which makes it one of the main tools in this field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High Performance: Julia has been designed with the needs of scientific computing in mind, especially for high performance tasks.&lt;/li&gt;
+&lt;li&gt;Interfaces with other languages: Julia integrates seamlessly with C and Fortran, which allows you to use it to develop complex scientific applications.   - User-friendliness: Julia combines the simplicity of Python and the performance of C, making it attractive for scientific calculations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matlab-&#34;&gt;MATLAB 🧮&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Professional Tools: MATLAB provides powerful tools for mathematical calculations, modeling, data analysis and visualization.   - Integrated Development Environment: MATLAB IDE provides a convenient way to develop and test code, as well as visualize the results.&lt;/li&gt;
+&lt;li&gt;Limited License: Unlike previous languages, MATLAB is a commercial product, which may be a limitation for some users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;p&gt;The choice of a scientific programming language depends on the specific tasks and preferences of the researcher. Each of these languages has its own strengths and can be most effective in certain contexts. Which one do you prefer?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Continuous Integration and Continuous Deployment (CI/CD)</title>
-      <link>http://localhost:1313/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <link>https://example.com/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>https://example.com/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</guid>
       <description>&lt;p&gt;
 
 
@@ -39,7 +73,7 @@
                /post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rise-ci-cd-analytics-feature-img-768x401_hue8923917415a93cc16b54ac5f99090e4_118891_fed6c12b7257ae6c5f15dad4f6c5c054.webp 400w,
                /post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rise-ci-cd-analytics-feature-img-768x401_hue8923917415a93cc16b54ac5f99090e4_118891_5806820a1791145ddf9cd4c459c0112f.webp 760w,
                /post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rise-ci-cd-analytics-feature-img-768x401_hue8923917415a93cc16b54ac5f99090e4_118891_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rise-ci-cd-analytics-feature-img-768x401_hue8923917415a93cc16b54ac5f99090e4_118891_fed6c12b7257ae6c5f15dad4f6c5c054.webp&#34;
+               src=&#34;https://example.com/post/%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5-%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/rise-ci-cd-analytics-feature-img-768x401_hue8923917415a93cc16b54ac5f99090e4_118891_fed6c12b7257ae6c5f15dad4f6c5c054.webp&#34;
                width=&#34;760&#34;
                height=&#34;397&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

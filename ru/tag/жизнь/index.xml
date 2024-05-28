@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Жизнь | Academic</title>
-    <link>http://localhost:1313/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
-      <atom:link href="http://localhost:1313/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <atom:link href="https://example.com/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <description>Жизнь</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Жизнь</title>
-      <link>http://localhost:1313/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
+      <link>https://example.com/ru/tag/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C/</link>
     </image>
     
     <item>
       <title>Как прошла моя неделя</title>
-      <link>http://localhost:1313/ru/post/week-4/</link>
+      <link>https://example.com/ru/post/week-4/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/week-4/</guid>
+      <guid>https://example.com/ru/post/week-4/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;🌟 Прошедшая неделя в университете была насыщена яркими событиями и важными моментами! 🌟&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Как прошла последняя неделя апреля</title>
-      <link>http://localhost:1313/ru/post/week-22-28.04/</link>
+      <link>https://example.com/ru/post/week-22-28.04/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/week-22-28.04/</guid>
+      <guid>https://example.com/ru/post/week-22-28.04/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Моя прошедшая неделя состояла из учебы, тренировок и просмотра подготовки к параду, посвященному Дню Победы.&lt;/p&gt;
@@ -65,10 +65,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_8cc4fe1ca01eb464876309fa80c00f1a.webp 400w,
+               /ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_22fbc0d05bcce1cbcabaf76b232c6cea.webp 400w,
                /ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_d46c14869e857d7d02ff74b637349cde.webp 760w,
                /ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;http://localhost:1313/ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_8cc4fe1ca01eb464876309fa80c00f1a.webp&#34;
+               src=&#34;https://example.com/ru/post/week-22-28.04/%D1%80%D0%B5%D0%BF%D0%B5%D1%82%D0%B8%D1%86%D0%B8%D1%8F_hu32ee5142eafcf9670e9d30251c1d7dde_133696_22fbc0d05bcce1cbcabaf76b232c6cea.webp&#34;
                width=&#34;656&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
